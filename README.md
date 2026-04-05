@@ -31,7 +31,7 @@ The goal is to provide a modular and reproducible workflow that can be executed 
 ---
 
 ## Project Structure
-
+```text
 NGS-bacterial-genome-pipeline
 │
 ├── scripts/
@@ -42,7 +42,7 @@ NGS-bacterial-genome-pipeline
 ├── logs/
 ├── README.md
 └── WORKFLOW.md
-
+```
 
 ---
 
