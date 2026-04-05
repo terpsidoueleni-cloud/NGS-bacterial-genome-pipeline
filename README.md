@@ -1,6 +1,4 @@
-##Markdown
-
-# Bacterial Genome Analysis Pipeline
+## Bacterial Genome Analysis Pipeline
 
 This repository contains a reproducible bioinformatics pipeline for bacterial genome analysis developed based on workflows used during a bioinformatics internship.
 
